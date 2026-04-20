@@ -82,16 +82,6 @@ Estimated Tax: Rp75000.0
 * NetBeans IDE
 * Maven
 
----
-
-## 🧑‍💻 Author
-
-* **Name:** Muhammad Dzakwan Najmi
-* **Program:** Informatics Engineering
-* **Semester:** 4
-
----
-
 ## 📎 Notes
 
 This project focuses on basic OOP implementation and is intended for educational purposes.
