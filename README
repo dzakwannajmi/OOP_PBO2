@@ -1,0 +1,42 @@
+```
+# 📘 OOP (PBO) Assignment - Java
+
+## 📌 Description
+This project is part of an Object-Oriented Programming (OOP) course assignment. It demonstrates the implementation of a custom class (`SepedaMotor`) using constructors and methods, as well as basic CRUD concepts.
+
+## 🏍️ Case Study
+Motorcycle (SepedaMotor)
+
+## 🎯 Features
+- Default Constructor
+- Parameterized Constructor
+- Method (void) → display data
+- Method (return) → tax calculation
+
+## ⚙️ CRUD Concept
+- Create → Object creation
+- Read → Display object data
+- Update → Setter method
+- Delete → Handled by Java Garbage Collector
+
+## ▶️ How to Run
+1. Open project in NetBeans
+2. Run `Main.java`
+3. View output in console
+
+## 🧪 Example Output
+```
+
+--- Object 1 ---
+Motorcycle Details: Not Set General (0cc)
+
+--- Object 2 ---
+Motorcycle Details: Kawasaki KLX 150 (150cc)
+Estimated Tax: Rp75000.0
+
+```
+
+## 🧑‍💻 Author
+Muhammad Dzakwan Najmi 
+ 
+```
